@@ -1,0 +1,1 @@
+Nesta página, o voluntário deve responder a algumas perguntas para que a aplicação possa gerar o match com os trabalhos voluntários cadastrados ideal para cada perfil.
