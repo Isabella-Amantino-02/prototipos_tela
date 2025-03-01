@@ -1,0 +1,1 @@
+A página Editar_Projeto tem por objetivo alterar as informações de um relacionado projeto.

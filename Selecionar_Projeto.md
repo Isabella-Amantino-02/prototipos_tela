@@ -1,0 +1,1 @@
+Na página Selecionar_Projeto, instituição poderá selecionar seus projetos para editar informações ou excluir um projeto.

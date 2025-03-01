@@ -1,0 +1,1 @@
+Na página Informacoes_Projeto, a empresa irá cadastrar todas as informações do projeto para que o voluntário possa visualizar.

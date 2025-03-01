@@ -1,0 +1,1 @@
+A página Cadastro_Projeto tem por objetivo um login simples para que as instituições possam se cadastrar.
